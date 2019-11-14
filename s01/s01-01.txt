@@ -1,6 +1,6 @@
 人物简介.
 新来的警长Ray Holt让Jeffordz介绍以下警局里的这些侦探们，于是有了下面的介绍。
-Here is the description of Sergeant Jefford for these detectives to Captain Ray Holt.
+Here is the description of Sergeant Jefford for these detectives to Captain Ray Holt
 
 **Jake Peralta：is best Detective. He likes putting away bad guys and he loves solving puzzles. The only puzzle he hasn't solved is how to grow up.
 
@@ -11,3 +11,5 @@ Here is the description of Sergeant Jefford for these detectives to Captain Ray 
 **Rosa Diaz:Tough, smart, hard to read, and really scary.
 
 **Scully Hitchcock and Daniels:They're pretty much worthless, but they make good coffee
+
+conversation 1
